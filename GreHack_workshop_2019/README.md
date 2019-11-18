@@ -24,6 +24,7 @@ To decode our generated OOK signal, as well as captured ones, we have also seen 
 Go further:
 
 * RF Hacking with Software-Defined Radio (SDR) training: https://advancedsecurity.training/events/berlin-rfhacking-spring-2020/
+* Practical mobile interception: https://www.synacktiv.com/posts/hardware/hunting-mobile-devices-endpoints-the-rf-and-the-hard-way.html
 * Very nice and online book about Digital Processing: http://www.dspguide.com/
 * Good resources and explanation about antennas (French): https://f5zv.pagesperso-orange.fr/RADIO/RM/RM08/RM08a/RM08a.html
 * Intercom hacking: https://www.synacktiv.com/ressources/33c3_Intercoms_presentation_en.pdf
