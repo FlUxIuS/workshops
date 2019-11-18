@@ -13,7 +13,7 @@ There is also a `HW_SDR_devices-Comparison.pdf` file showing the comparison of "
 
 ## Presented tools
 
-We have talked the RF explorer to discover signals, but also ways to do it with GnuRadio, and talked about GQRX. 
+We have talked the RF explorer to discover and identify signals, but also ways to do it with GnuRadio, and talked about GQRX. 
 Thanks to one attendie (Kévin), we could also discover a nice tool called Qspectrum Analyzer as well.
 
 To decode our generated OOK signal, as well as captured ones, we have also seen how URH (Universal Radio Hacker) works and how it could be convenient for decoding simple modulated and encoded data.
